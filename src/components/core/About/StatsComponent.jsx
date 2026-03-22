@@ -16,7 +16,7 @@ const Stats=[
   }
   ,
   {
-    count:"50+",
+    count:"5+",
     label:"Awards"
   }
 ];
