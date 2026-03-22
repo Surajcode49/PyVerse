@@ -11,7 +11,7 @@ const Stats=[
   }
   ,
   {
-    count:"200+",
+    count:"7+",
     label:"Courses"
   }
   ,
