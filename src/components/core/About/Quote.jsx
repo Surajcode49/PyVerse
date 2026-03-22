@@ -9,7 +9,7 @@ const Quote = () => {
   Our learning approach <HighlightText text={"combines conceptual clarity"} />,{" "}
   
   <span className="bg-gradient-to-b from-[#FF512F] to-[#F09819] text-transparent bg-clip-text font-bold">
-    expert guidance
+    expert guidance.
   </span>
   
   , and practical learning to help students master
