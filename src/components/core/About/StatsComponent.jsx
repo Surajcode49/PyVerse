@@ -1,7 +1,7 @@
 
 const Stats=[
   {
-    count:"5K",
+    count:"200",
     label:"Active Students"
   }
   ,
